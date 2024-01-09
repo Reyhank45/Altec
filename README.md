@@ -1,4 +1,4 @@
-*/Welcome to Altec/*
+## *Welcome to Altec*
 
 This is Altec a software company.
   
